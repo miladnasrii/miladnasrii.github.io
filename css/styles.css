@@ -8037,7 +8037,8 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+/*   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
+  color: #EF4040;
 }
 
 .text-secondary {
@@ -8128,9 +8129,12 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+/*   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
+    background-color: #EF4040;
 }
-
+#email{
+  color: #EF4040;
+}
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
