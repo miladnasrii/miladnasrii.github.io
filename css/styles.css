@@ -8038,7 +8038,7 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
 /*   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
-  color: #EF4040;
+  color: #3FA2F6;
 }
 
 .text-secondary {
@@ -8130,10 +8130,10 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
 /*   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
-    background-color: #EF4040;
+    background-color: #3FA2F6;
 }
 #email{
-  color: #EF4040;
+  color: #3FA2F6;
 }
 .bg-secondary {
   --bs-bg-opacity: 1;
@@ -10941,7 +10941,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #EF4040;
+  background-color: #3FA2F6;
 }
 
 .dev-icons {
