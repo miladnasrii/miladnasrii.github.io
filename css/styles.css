@@ -10883,7 +10883,10 @@ p.lead {
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
-
+a#mramezaniLink{
+  color: var(--bs-gray);;
+  text-decoration: none;
+}
 @media (min-width: 992px) {
   #sideNav {
     padding-left: 0;
