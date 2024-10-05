@@ -10884,7 +10884,7 @@ p.lead {
   outline-color: #d48a6e;
 }
 a#mramezaniLink{
-  color: var(--bs-gray);;
+  color: var(--bs-gray);
   text-decoration: none;
 }
 @media (min-width: 992px) {
