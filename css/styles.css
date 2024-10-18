@@ -8038,7 +8038,7 @@ textarea.form-control-lg {
 .text-primary {
   --bs-text-opacity: 1;
 /*   color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important; */
-  color: #3FA2F6;
+  color: #31363F;
 }
 
 .text-secondary {
@@ -8130,10 +8130,10 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
 /*   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
-    background-color: #3FA2F6;
+    background-color: #31363F;
 }
 #email{
-  color: #3FA2F6;
+  color: #31363F;
 }
 .bg-secondary {
   --bs-bg-opacity: 1;
@@ -10948,7 +10948,7 @@ a#mramezaniLink{
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #3FA2F6;
+  background-color: #31363F;
 }
 
 .dev-icons {
