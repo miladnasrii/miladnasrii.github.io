@@ -10887,6 +10887,9 @@ a#mramezaniLink{
   color: var(--bs-gray);
   text-decoration: none;
 }
+.awardLink:hover{
+  color: #2c3339;
+}
 @media (min-width: 992px) {
   #sideNav {
     padding-left: 0;
