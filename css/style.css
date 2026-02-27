@@ -6271,7 +6271,15 @@ button.bg-dark:focus {
 .pl-2,
 .px-2 {
   padding-left: 0.5rem !important; }
+.hero-wrap-2 {
+    height: auto !important;
+    min-height: auto !important;
+    padding: 60px 0;
+}
 
+.hero-wrap-2 .overlay {
+    display: none; /* اگر نیاز نداری */
+}
 .p-3 {
   padding: 1rem !important; }
 
